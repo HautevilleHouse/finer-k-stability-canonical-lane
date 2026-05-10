@@ -44,6 +44,15 @@ Strict closure margin:
 - `FKS_G6`: `eps_coh`
 - `FKS_GM`: final strict margin
 
+## 3A. Standard-Language Bridge
+
+In ordinary K-stability language, the canonical-lane endpoint is the refined
+K-stability target package on the declared admissible family. The state `u_tau`
+tracks the same stability and test-configuration data in the projected lane,
+while `stability_lock` and `eps_coh` record the bridge conditions used to
+identify the extracted endpoint with the standard target statement. The
+determining observables are recorded in `notes/IDENTIFICATION_BRIDGE.md`.
+
 ## 4. Reproducibility
 
 Run `bash repro/run_repro.sh` and inspect `repro/certificate_runtime.json`.
