@@ -1,6 +1,4 @@
 {
-  "schema_version": "2026-03-05",
-  "generated_utc": "2026-03-13T05:05:56Z",
   "files": [
     {
       "path": "README.md",
@@ -52,15 +50,15 @@
     },
     {
       "path": "scripts/extract_constants.py",
-      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+      "sha256": "730d57dae3fac057e19630db34233183cae269568d43118c943387970081896d"
     },
     {
       "path": "scripts/promote_constants.py",
-      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+      "sha256": "b65eb7a60552c668f04d6331a5256fe4e662ae5e83e769d42f6a141819769356"
     },
     {
       "path": "scripts/update_manifest.py",
-      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+      "sha256": "45ae03f10349daebab98b6eb9a0836b7e2d15a48ca5504277c80ec7d4c633d12"
     },
     {
       "path": "scripts/release_gate.py",
@@ -68,7 +66,7 @@
     },
     {
       "path": "repro/run_repro.sh",
-      "sha256": "3c94844e6f852061d556775fb7d92bd5945fe26ab0dbbf5a54a209312a63bed8"
+      "sha256": "367c6d2b42fd6cba8fc8c073743030f22306418d010db50be763321484b87e79"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -101,10 +99,8 @@
     {
       "path": "repro/certificate_baseline.json",
       "sha256": "2b656a89f0987bcbf5cce00f4afc22ee28c5f8cd750cdf77c1c48efe94cd1b31"
-    },
-    {
-      "path": "repro/certificate_runtime.json",
-      "sha256": "2b656a89f0987bcbf5cce00f4afc22ee28c5f8cd750cdf77c1c48efe94cd1b31"
     }
-  ]
+  ],
+  "generated_utc": "2026-05-10T05:20:16Z",
+  "schema_version": "2026-03-05"
 }
