@@ -30,7 +30,7 @@
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "c7076cab7d9615ed5f37cc6e677bcb90ed80051162cde6bf6dbd4857ab54af8c"
+      "sha256": "8985c544d98e6a160323802d935e8b8ded5b820e9b85e7d713b91afd87cd27d7"
     },
     {
       "path": "notes/EG3_public.md",
@@ -101,6 +101,6 @@
       "sha256": "2b656a89f0987bcbf5cce00f4afc22ee28c5f8cd750cdf77c1c48efe94cd1b31"
     }
   ],
-  "generated_utc": "2026-07-02T16:29:34Z",
+  "generated_utc": "2026-07-02T16:57:57Z",
   "schema_version": "2026-03-05"
 }
